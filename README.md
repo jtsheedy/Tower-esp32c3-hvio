@@ -2,7 +2,7 @@
 
 Sponsored by [TowerSoftware](http://www.towersoftwareltd.com/)
 
-<img src="https://github.com/hotteshen/esp32c3-high-voltage-encoder/blob/master/doc/preview-3d.png?raw=true">
+<img src="https://github.com/hotteshen/esp32c3-high-voltage-encoder/blob/master/doc/preview-3d-v1.1.png?raw=true">
 
 ## Overview
 
