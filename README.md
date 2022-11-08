@@ -16,6 +16,11 @@ An ESP32-C3 powered encoder controller with voltage level translator and CAN tra
 ## Revisions
 
 
+### 1.2
+
+* Replaced XC6206 weak LDO with stronger AMS1117
+* PCB antenna cutout for better RF performance
+
 ### 1.1
 
 * Diodes between +5V and VUSB rails are removed.
