@@ -1,8 +1,13 @@
-# ESP32 High Voltage Encoder Controller
+# PCBCrew ™  ESP32 High Voltage IO Board
 
-Sponsored by [TowerSoftware](http://www.towersoftwareltd.com/)
+> Designed for [TowerSoftware ™][tower]
 
-<img src="https://github.com/hotteshen/esp32c3-high-voltage-encoder/blob/master/doc/preview-3d-v1.1.png?raw=true">
+ESP32-C3 powered encoder controller with voltage level translator and CAN transciever.
+
+
+| 3D Preview                                                        | PCBA                                                             |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ![pcbcrew-tower-esp32c3-hvio-preview](./doc/image/3d-preview.png) | ![pcbcrew-tower-esp32c3-hvio-pcb-assembly](./doc/image/pcba.png) |
 
 ## Overview
 
@@ -29,3 +34,18 @@ An ESP32-C3 powered encoder controller with voltage level translator and CAN tra
 ### 1.0
 
 * Initial release.
+
+### Project Ownership
+
+This repository is hosted to the PCB desiber([DumTux](https://github.com/dumtux))'s GitHub account for backup.
+The copyright of this hardware design is owned by [TowerSoftware ™][tower].
+
+### Sponsors:
+
+* [TowerSoftware ™][tower]
+* [PCBCrew ™][pcbcrew]
+
+---
+
+[pcbcrew]: https://pcbcrew.com
+[tower]: https://www.towersoftwareltd.com
