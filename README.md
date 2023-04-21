@@ -35,15 +35,10 @@ An ESP32-C3 powered encoder controller with voltage level translator and CAN tra
 
 * Initial release.
 
-### Project Ownership
+## Project Ownership
 
 This repository is hosted to the PCB desiber([DumTux](https://github.com/dumtux))'s GitHub account for backup.
 The copyright of this hardware design is owned by [TowerSoftware ™][tower].
-
-### Sponsors:
-
-* [TowerSoftware ™][tower]
-* [PCBCrew ™][pcbcrew]
 
 ---
 
